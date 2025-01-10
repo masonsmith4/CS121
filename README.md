@@ -1,9 +1,9 @@
-#CS121Project1
+# CS121Project1
 
-###Hello, my name is Mason
+## **Hello, my name is Mason
 
-###I hope to secure my coding skills so that I do not need to research to remember
+##*I hope to secure my coding skills so that I do not need to research to remember*
 
-###I have a big passion for music, gaming, and stories.
+##~~I have a big passion for music, gaming, and stories.~~
 
 
